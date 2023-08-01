@@ -4,6 +4,8 @@ a = turtle.Turtle()
 #a.color("red")
 a.color("blue")
 a.shape("turtle")
-for _ in range(4):
-    a.forward(100)
-    a.left(90)
+for _ in range(14):
+    a.backward(10)
+    a.penup()
+    a.backward(10)
+    a.pendown()
