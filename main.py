@@ -1,5 +1,4 @@
 import turtle
-from turtle import Turtle
 a = Turtle()
 #a.shape("turtle")
 #a.color("red")
